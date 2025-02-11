@@ -169,3 +169,11 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+ToDoApp/.idea/ToDoApp.iml
+ToDoApp/.idea/inspectionProfiles/profiles_settings.xml
+ToDoApp/.idea/misc.xml
+ToDoApp/.idea/modules.xml
+ToDoApp/.idea/vcs.xml
+
