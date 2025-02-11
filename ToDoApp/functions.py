@@ -9,7 +9,7 @@ def write_todos(todos_arg, filepath=FILEPATH):
     """ Write the to-do items list in the text files."""
     with open(filepath, 'w') as file:
         file.writelines(todos_arg)
-        file.writelines("\n")
+       # file.writelines("\n")
 
 
 if __name__ == "__main__":
