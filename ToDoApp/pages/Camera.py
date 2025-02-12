@@ -20,7 +20,6 @@ if uploaded_image:
     st.image(gray_img)
 
 if camera_image:
-
     gray_img=convert_to_grayscale(camera_image)
     # Render image to the webpage
     st.image(gray_img)
