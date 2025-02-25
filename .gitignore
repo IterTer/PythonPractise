@@ -171,16 +171,7 @@ cython_debug/
 .pypirc
 
 
-ToDoApp/.idea/ToDoApp.iml
-ToDoApp/.idea/inspectionProfiles/profiles_settings.xml
-ToDoApp/.idea/misc.xml
-ToDoApp/.idea/modules.xml
-ToDoApp/.idea/vcs.xml
-
-PortfolioApp/.idea/PortfolioApp.iml
-PortfolioApp/.idea/inspectionProfiles/profiles_settings.xml
-PortfolioApp/.idea/modules.xml
-PortfolioApp/.idea/vcs.xml
-PortfolioApp/.idea/misc.xml
-
+ToDoApp/.idea
+PortfolioApp/.idea
 GeometryGame/.idea
+ApartmentBill/.idea
